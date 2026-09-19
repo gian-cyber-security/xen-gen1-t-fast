@@ -1,3 +1,16 @@
+---
+license: mit
+library_name: pytorch
+pipeline_tag: text-generation
+language:
+  - en
+tags:
+  - xens
+  - xen
+  - pytorch
+  - custom-architecture
+---
+
 # XEN-GEN1-T-Fast
 
 Specialized XEN text model trained from scratch.
